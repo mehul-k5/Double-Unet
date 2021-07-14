@@ -1,0 +1,6 @@
+numpy
+tqdm
+tiffile
+sklearn
+albumentations
+tensorflow==2.4.1
