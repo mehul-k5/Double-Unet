@@ -1,5 +1,7 @@
 # DoubleU-Net: A Deep Convolutional Neural Network for Medical Image Segmentation
 
+Paper link https://arxiv.org/abs/2006.04868
+
 For CVC-ClinicDB download from this link https://www.dropbox.com/s/p5qe9eotetjnbmq/CVC-ClinicDB.rar?dl=0
 For ETIS-Larib Polyp DB download from this link https://www.dropbox.com/s/j4nsxijf5dhzb6w/ETIS-LaribPolypDB.rar?dl=0
 
